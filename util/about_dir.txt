@@ -1,0 +1,10 @@
+https://www.beningo.com/how-to-organize-a-firmware-project/
+
+"Finally, there is the Utilities folder. Just like with the middleware folder, this is 
+often a folder of git submodules that provide access to various open source tools. For 
+example, I often link cpputest into this folder. That way, a new developer can check-out 
+the project and initialize the submodules and be most of the way to being up and 
+running. (I’ve also used Docker for this but that is a story for another time). I will 
+also include sometimes the installer for various tools if they are not open source. 
+Sometimes I’ll even place custom interface code written in Python in this folder as 
+well."

@@ -1,0 +1,9 @@
+https://www.beningo.com/how-to-organize-a-firmware-project/
+
+"The Tests folder is one that would not have existed in my organizational flow just a few 
+years ago. I’ve been rapidly pushing myself to adopt a more Test-Driven Development 
+(TDD) development process for firmware. All my test case code is stored under this 
+directory. The exact structure I use varies a little bit, but a good place to start is 
+James Grenning’s cpputest-start-project on github. Automated testing has become so 
+important that every project should include this (and actively manage and maintain 
+the tests)."

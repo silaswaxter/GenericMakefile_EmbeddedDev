@@ -1,0 +1,8 @@
+https://www.beningo.com/how-to-organize-a-firmware-project/
+
+"The documentation directory is used for several types of documentation. First, Doxygen 
+generated manuals and files are all stored under this directory. Second, any 
+additional documentation that is useful such as write-ups about user guides, CRC’s, 
+input file formats, development specific data and so forth."
+
+
